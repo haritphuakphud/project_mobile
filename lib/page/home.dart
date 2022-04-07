@@ -73,12 +73,12 @@ class HomePage extends StatelessWidget {
 
 
     return Scaffold(
-      appBar: AppBar(
+     appBar: AppBar(
         centerTitle: true,
         title: Text('AGENT INFOMATION'),
         actions: <Widget>[
           IconButton(
-            icon: Icon(Icons.search),
+             icon: Icon(Icons.search),
             onPressed: () {},
           )
         ],

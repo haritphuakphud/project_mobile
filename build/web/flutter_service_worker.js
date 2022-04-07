@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c9802f1dbb1c295157b82ba1ecb4baaa",
+  "assets/AssetManifest.json": "db2b530a6c4149d5d39315bb611f73d1",
 "assets/assets/images/loading.gif": "a6c785eef004a69364f42289dc7e8566",
+"assets/assets/images/valo.jpg": "84a23dc0a90be5f978ce312d40cc70df",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/NOTICES": "2ceedb153a9ddf191c47e7cb8b46fda6",
@@ -18,9 +19,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b917cd9d1d788403be6743e009f1cd15",
-"/": "b917cd9d1d788403be6743e009f1cd15",
-"main.dart.js": "7e3b5edd106d62cb19c4c62278b2a342",
+"index.html": "56c38e725df58ab2661d64c5fdc32465",
+"/": "56c38e725df58ab2661d64c5fdc32465",
+"main.dart.js": "c349f7b6288fec7bcfc35e37dde15cfd",
 "manifest.json": "db80b19914e9d5595fd207c9572e7808",
 "version.json": "af6fb5b37b5d6dcc27ceea9b3c54ddaf"
 };
