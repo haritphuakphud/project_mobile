@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:project/page/details.dart';
 import 'package:project/utils/data.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class HomePage extends StatelessWidget {
   @override
@@ -78,12 +79,22 @@ class HomePage extends StatelessWidget {
         title: Text('AGENT INFOMATION'),
         actions: <Widget>[
           IconButton(
-             icon: Icon(Icons.search),
-            onPressed: () {},
+
+             icon: Icon(Icons.help_outline),
+            onPressed: _launchURL1,
           )
         ],
       ),
       body: body,
     );
+
+  }
+  _launchURL1() async {
+    const url = 'https://support-valorant.riotgames.com/hc/th/';
+    if (await canLaunch(url)) {
+      await launch(url);
+    } else {
+      throw 'Could not launch $url';
+    }
   }
 }
