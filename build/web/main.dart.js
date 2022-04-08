@@ -58654,7 +58654,7 @@ A.zt.prototype={
 ay(){return new A.Nq(B.k)}}
 A.Nq.prototype={
 H(a,b){var s=null,r=A.am4(B.ec,new A.kV("assets/images/valo.jpg"),s)
-return A.a8O(s,A.eq(s,A.j2(B.b8,A.a([new A.d8(B.y7,new A.ij(B.k3,s,s,new A.BI(new A.a5U(b),s,s,s,s,B.o,s,!1,new A.d8(B.y8,A.h1("Enter",A.ei(s,s,B.i,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s),s),s)],t.E),B.bp,s),B.o,s,new A.ak(1/0,1/0,1/0,1/0),new A.dL(s,r,s,s,s,s,B.aU),s,s,s,s,s,s,s))}}
+return A.a8O(s,A.eq(s,A.j2(B.b8,A.a([new A.d8(B.y7,new A.ij(B.k3,s,s,new A.BI(new A.a5U(b),s,s,s,s,B.o,s,!1,new A.d8(B.y8,A.h1("START",A.ei(s,s,B.i,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s),s),s)],t.E),B.bp,s),B.o,s,new A.ak(1/0,1/0,1/0,1/0),new A.dL(s,r,s,s,s,s,B.aU),s,s,s,s,s,s,s))}}
 A.a5U.prototype={
 $0(){var s=A.a8x(new A.a5T(),null,t.z)
 A.Dp(this.a).o3(s)},
