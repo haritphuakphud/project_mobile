@@ -20,7 +20,7 @@ class _firstpageState extends State<firstpage> {
         constraints: BoxConstraints.expand(),
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage("assets/images/valo.jpg"),
+            image: AssetImage("assets/images/wall.jpg"),
             fit: BoxFit.cover
           )
         ),
