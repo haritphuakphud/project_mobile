@@ -40,7 +40,7 @@ class _firstpageState extends State<firstpage> {
 
                     child: Padding(
                       padding: const EdgeInsets.all(12),
-                      child: Text("AGENT INFO",style: TextStyle(color: Colors.white)),
+                      child: Text("AGENT VALORANT",style: TextStyle(color: Colors.white)),
                     ),
 
                   )
@@ -56,7 +56,7 @@ class _firstpageState extends State<firstpage> {
 
                       child: Padding(
                         padding: const EdgeInsets.all(12.0),
-                        child: Text("   WEBSITE   ",style: TextStyle(color: Colors.white)),
+                        child: Text("        WEB SITE        ",style: TextStyle(color: Colors.white)),
                       ),
 
                     )
