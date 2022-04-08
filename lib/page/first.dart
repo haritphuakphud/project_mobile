@@ -37,7 +37,7 @@ class _firstpageState extends State<firstpage> {
 
                 child: Padding(
                   padding: const EdgeInsets.all(12),
-                  child: Text("Enter",style: TextStyle(color: Colors.white)),
+                  child: Text("START",style: TextStyle(color: Colors.white)),
                 ),
 
               ) ),
